@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SickDevelopment
+- 👋 Hi, I’m @SickDeveloepment
 - 👀 I’m interested in FiveM modding
 - 🌱 I’m currently learning Lua, Javascript, Css
 - 💞️ I’m looking to collaborate on ...
